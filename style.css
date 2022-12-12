@@ -1,0 +1,25 @@
+h1 {
+    color: #108ef5;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-style: italic;
+    text-align: center;
+}
+
+hr {
+    border: 2px solid #000000;
+    width: 65%;
+}
+
+p {
+    color: #1b3d5b;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+ul {
+    font-family: "Times New Roman", Times, serif;
+}
