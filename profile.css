@@ -1,0 +1,35 @@
+img {
+    position: relative;
+    left: 650px;
+    border: 2px solid #000000;
+    width: 15%;
+}
+
+hr {
+    border: 2px solid #000000;
+    width: 100%;
+}
+
+h1 {
+    color: #108ef5;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    color: #000000;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+h4 {
+    color: #000000;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+    text-align: center;
+}
